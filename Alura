@@ -10,7 +10,7 @@
     <div class="container">
         <!-- Primeira seção -->
         <section class="section-one">
-            <img src="https://images.app.goo.gl/gQfpEpqQwhUxW2Jx6" alt="Logo Alura" class="logo">
+            <img src="icon.png" alt="Logo Alura" class="logo">
             <div class="text-content">
                 <h1>Conheça sobre o Alura e seus desenvolvedores</h1>
                 <p>Aprenda sobre a tecnologia e evolua no mercado de trabalho.</p>
@@ -22,7 +22,7 @@
 
         <!-- Segunda seção -->
         <section class="section-two">
-            <img src="https://images.app.goo.gl/tL4aqvmzNxZt6sxCA" alt="Imagem Alura" class="device-image">
+            <img src="google-alura.jpg" alt="Imagem Alura" class="device-image">
             <p class="image-caption">Acesse em qualquer dispositivo disponível.</p>
         </section>
     </div>
